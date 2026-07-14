@@ -1,13 +1,13 @@
-================================================================================
+
 
 SMB FILE LOCK MANAGEMENT TOOL - DOCUMENTATION
 
-================================================================================
+
 Author:       Mathias McDowell
 Version:      1.0
 Context:      Production-Grade SMB Audit Utility
 Platform:     Windows Server 2012 R2 / Windows Server 2016+
-================================================================================
+
 
 1. OVERVIEW & DESCRIPTION
 --------------------------------------------------------------------------------
@@ -82,6 +82,6 @@ the standard Windows User Account Control (UAC) authorization prompt when it
 appears. The tool will initialize and print out the master engine options console 
 instantly.
 
-================================================================================
+
 END OF DOCUMENTATION
-================================================================================
+
